@@ -26,3 +26,9 @@ datatype, that's not how computers work, and I thought I was smart. In reality,
 coding is alot different. I'm too tired to continue writing for tonight, but
 I'll just mash my head against my keyboard a bit more tommorow. I guess that's
 the course intro!
+
+## Table of Jumbled Resources I Guess...
+
+[Crash Course Computer Science (Please Watch!!!!)](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+
+[Lesson 1: Imperative Instructions]()
